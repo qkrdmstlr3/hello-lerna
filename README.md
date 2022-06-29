@@ -4,3 +4,5 @@
 
 - log core : 콘솔 출력
 - log cli : 명령어
+
+npm에 두가지가 모두 배포된다
